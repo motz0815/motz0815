@@ -8,4 +8,4 @@ henlo
 
 💎 JEDER der serverseitiges JavaScript laufen hat, sollte TypeScript verwenden. *hust kai*
 
-🎞 Zusätzlich bin ich *Zwangsarbeiter* im Team von TheJoCraft, und leite dort die Events, und bin Dev bei Turnieren.
+🎞 Zusätzlich bin ich *Zwangsarbeiter* im Team von TheJoCraft, und leite dort die Events, und bin Organisator bei Turnieren.
