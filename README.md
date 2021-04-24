@@ -2,6 +2,8 @@ henlo
 
 # Isch bin der Motz, und liebe es, faul zu sein. o((>ω< ))o
 
+🧠 "Die beste Fähigkeit ist nicht, Wissen zu sammeln, sondern zu Wissen, wie man wissen sammelt. Wenn die Möglichkeit nicht mehr existiert, Wissen zu sammeln, bringt einem angesammeltes Wissen nichts mehr." - Motz, 2021
+
 ✨ Ich arbeite hauptsächlich in Java, weil ich Minecraftplugins programmiere.
 
 🎈 Ab und zu mache ich aber auch was in TypeScript. 
