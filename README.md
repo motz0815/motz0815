@@ -12,4 +12,4 @@ henlo
 
 🎞 Zusätzlich bin ich *Zwangsarbeiter* im Team von TheJoCraft, leite dort die Events, und bin Organisator bei Turnieren.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motz0815&count_private=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motz0815&count_private=true)
