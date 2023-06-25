@@ -6,7 +6,7 @@ henlo
 
 🎈 Ab und zu mache ich aber auch was in TypeScript. 
 
-💎 JEDER der serverseitiges JavaScript laufen hat, sollte TypeScript verwenden. *hust kai*
+💎 TypeScript > JavaScript
 
 🎞 Zusätzlich bin ich *Zwangsarbeiter* im Team von TheJoCraft, Entwickler vom TJC-Turnier und leite die meisten Events.
 
