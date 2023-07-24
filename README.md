@@ -4,7 +4,7 @@ henlo
 
 ✨ Ich arbeite hauptsächlich in Java, weil ich es liebe, Minecraft-Plugins zu entwickeln.
 
-🎈 Ab und zu mache ich aber auch was in TypeScript. 
+🎈 Sehr gerne arbeite ich auch in TypeScript. React und NextJS sind meine Lieblings-Frameworks. 
 
 💎 TypeScript > JavaScript
 
