@@ -8,6 +8,4 @@ henlo
 
 💎 TypeScript > JavaScript
 
-🎞 Außerdem entwickle ich im Moment eine App, du kannst sie [hier](https://furt.app) abchecken.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motz0815&count_private=true&show_icons=true&theme=tokyonight)
