@@ -8,4 +8,4 @@ henlo
 
 💎 TypeScript > JavaScript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motz0815&count_private=true&show_icons=true&theme=tokyonight)
+![motz0815's GitHub stats](https://github-readme-stats-motz.vercel.app/api?username=motz0815&count_private=true&show_icons=true&theme=tokyonight)
