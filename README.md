@@ -1,11 +1,9 @@
-henlo
+# Hi I'm Matthias
 
-# Isch bin der Motz 
+✨ I mainly work using TypeScript, as I love building full stack Next.js apps.
 
-✨ Ich arbeite hauptsächlich in TypeScript. React und NextJS sind meine Lieblings-Frameworks. 
+🎈 I also sometimes code in Java, because I like to make minecraft plugins.
 
-🎈 Sehr gerne arbeite ich auch in Java, weil ich es liebe, Minecraft-Plugins zu entwickeln.
-
-💎 TypeScript > JavaScript
+💎 Currently I'm working on [partyq](https://github.com/motz0815/party), check it out!
 
 ![motz0815's GitHub stats](https://github-readme-stats-motz.vercel.app/api?username=motz0815&count_private=true&show_icons=true&theme=tokyonight)
